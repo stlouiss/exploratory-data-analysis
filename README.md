@@ -2,7 +2,7 @@
 
 I am storing in this repository two CSV files of economic data, cited below.
 
-Use case: exploratory data analysis in Google Colab for a data analytics assignment in an online university course.
+Use case: purely educational. (Exploratory data analysis in Google Colab for a data analytics assignment in an online university course.)
 
 These materials are available to the public via FRED as of 2025-07-29.
 
